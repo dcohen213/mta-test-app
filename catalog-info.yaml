@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mta-test-app
+  annotations:
+    github.com/project-slug: dcohen213/mta-test-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: rhdh-team
